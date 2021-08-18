@@ -21,7 +21,7 @@ you will have to meet the minimum hardware requirements to run
 it successfully, and you cannot run it on just about any low-end
 system. One major advantage of using GNU/Linux instead of
 Windows is customization. If you like tweaking your system’s
-looks, GNU/Linux is simply perfect for you.ter 2: Why should I use GNU/Linux
+looks, GNU/Linux is simply perfect for you.
 ## Chapter 3: Desktop Environments
 You can customise nearly every inch of your GNU/Linux installation
 to fit your liking, and it starts with choosing the right desktop
