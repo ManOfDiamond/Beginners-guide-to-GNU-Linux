@@ -27,7 +27,7 @@ You can customise nearly every inch of your GNU/Linux installation
 to fit your liking, and it starts with choosing the right desktop
 environment. If you want a Mac OS like Desktop Environment, you
 might want to pick the GNOME Desktop Environment.
-https://news-cdn.softpedia.com/images/news2/Debian-8-quot-Jessie-quot-to-Get-GNOME-3-14-459470-2.jpg
+![Gnome Desktop on Debian](https://news-cdn.softpedia.com/images/news2/Debian-8-quot-Jessie-quot-to-Get-GNOME-3-14-459470-2.jpg)
 If you want a Windows like experience you might want to choose
 one of these Desktop Environments.
 • Xfce (Better for older computers)
