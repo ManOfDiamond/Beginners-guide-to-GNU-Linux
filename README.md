@@ -30,21 +30,36 @@ might want to pick the GNOME Desktop Environment.
 ![Gnome Desktop on Debian](https://news-cdn.softpedia.com/images/news2/Debian-8-quot-Jessie-quot-to-Get-GNOME-3-14-459470-2.jpg)
 If you want a Windows like experience you might want to choose
 one of these Desktop Environments.
+
 • Xfce (Better for older computers)
+
 • KDE (Most Customizable)
+
 • Cinnamon
+
 • MATE
+
 • LXQt
+
 ## Chapter 4: Distributions
 GNU/Linux has different versions called distributions that mostly
 come with Desktop Environments preinstalled, here are some of
 the most popular Distros.
+
 • Pop OS (Best option for GNOME)
+
 • Fedora (Another good option for GNOME)
+
 • Kubuntu (Best KDE option)
+
 • KDE Neon (Another good option for KDE)
+
 • Xubuntu (Best Xfce option)
+
 • Linux Mint (Best Cinnamon option)
+
 • Ubuntu MATE (Best MATE option)
+
 • Ubuntu Budgie (Best Budgie option)
+
 • Lubuntu (Best LXQt option)
