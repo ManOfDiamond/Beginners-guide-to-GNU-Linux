@@ -36,9 +36,9 @@ come with Desktop Environments preinstalled, here are some of
 the most popular Distros. 
 (**Disclaimer**: Based on my opinion)
 
-• Pop_OS! (Good option for GNOME, based on ubuntu/debian)
+• Pop_OS! (Good option for GNOME, based on Ubuntu/Debian)
 
-• Fedora (Another good option for GNOME, provides a smooth transition from windows to gnu/linux)
+• Fedora (Another good option for GNOME, provides a smooth transition from Windows to GNU/Linux)
 
 • Kubuntu (Best KDE option)
 
@@ -46,7 +46,7 @@ the most popular Distros.
 
 • Xubuntu (Best Xfce option)
 
-• Linux Mint (Best Cinnamon option, provides a smooth transition from windows to gnu/linux)
+• Linux Mint (Best Cinnamon option, provides a smooth transition from Windows to GNU/Linux)
 
 • Ubuntu MATE (Best MATE option)
 
@@ -54,10 +54,10 @@ the most popular Distros.
 
 • Lubuntu (Best LXQt option)
 
-• Arch Linux and other distros based on it, like manjaro, artix, etc (Good for learning purposes and for advanced/old GNU/linux users, follows a rolling model for updates, only con of arch is systemd being enforced {artix ditches that})
+• Arch Linux and other distros based on it, like Manjaro, Artix, etc (Good for learning purposes and for Advanced/Old GNU/Linux users, follows a rolling model for updates, only con of arch is systemd being enforced {Artix ditches that})
 
-• Zorin (Based on ubuntu/debian, refreshed ui and easy to use)
+• Zorin (Based on Ubuntu/ebian, refreshed ui and easy to use)
 
 • Gentoo (Another distro for experienced users, you build your own system bit-by-bit and more control over system including linux kernel)
 
-### A quick fun fact: You're already using gnu/linux on your phone! Android and IOS both are based on gnu/linux.
+### A quick fun fact: You're already using gnu/linux on your phone! Android and iOS both are based on gnu/linux.
