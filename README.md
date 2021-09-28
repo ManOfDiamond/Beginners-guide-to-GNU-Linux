@@ -56,7 +56,7 @@ the most popular Distros.
 
 • Arch Linux and other distros based on it, like Manjaro, Artix, etc (Good for learning purposes and for Advanced/Old GNU/Linux users, follows a rolling model for updates, only con of arch is systemd being enforced {Artix ditches that})
 
-• Zorin (Based on Ubuntu/ebian, refreshed ui and easy to use)
+• Zorin (Based on Ubuntu/Debian, refreshed ui and easy to use)
 
 • Gentoo (Another distro for experienced users, you build your own system bit-by-bit and more control over system including linux kernel)
 
