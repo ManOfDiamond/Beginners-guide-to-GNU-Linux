@@ -15,6 +15,8 @@ exponentially. For instance, if you purchase a copy of Windows 10, you will have
 and you cannot run it on just about any low-end system. While on the other hand, gnu/linux will breathe a new life to your old pc.
 
 4. Another major advantage of using GNU/Linux instead of Windows is customization. If you like tweaking your system’s looks, GNU/Linux is simply perfect for you.
+
+5. Last but not the least, you have the most control over your pc. *You* are the one to control what runs in background or foreground or if it even can run on your pc.
 ## Chapter 3: Desktop Environments (DEs)
 You can customise nearly every inch of your GNU/Linux installation to fit your liking, and it starts with choosing the right desktop environment. If you want a Mac OS like Desktop Environment, you might want to pick the GNOME Desktop Environment.
 ![Gnome Desktop on Debian](https://news-cdn.softpedia.com/images/news2/Debian-8-quot-Jessie-quot-to-Get-GNOME-3-14-459470-2.jpg)
@@ -58,6 +60,6 @@ the most popular Distros.
 
 • Zorin (Based on Ubuntu/Debian, refreshed ui and easy to use)
 
-• Gentoo (Another distro for experienced users, you build your own system bit-by-bit and more control over system including linux kernel)
+• Gentoo (Another distro for experienced users, you build your own system bit-by-bit and more control over system including linux kernel, openrc, less bootup time)
 
 ### A quick fun fact: You're already using gnu/linux on your phone! Android and iOS both are based on gnu/linux.
