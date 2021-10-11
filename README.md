@@ -16,7 +16,7 @@ and you cannot run it on just about any low-end system. While on the other hand,
 
 4. Another major advantage of using GNU/Linux instead of Windows is customization. If you like tweaking your system’s looks, GNU/Linux is simply perfect for you.
 
-5. Last but not the least, you have the most control over your pc. *You* are the one to control what runs in background or foreground or if it even can run on your pc.
+5. Last but not the least, you have the most control over your pc. *You* are the one to control what runs in background or foreground or if it can even run on your pc.
 ## Chapter 3: Desktop Environments (DEs)
 You can customise nearly every inch of your GNU/Linux installation to fit your liking, and it starts with choosing the right desktop environment. If you want a Mac OS like Desktop Environment, you might want to pick the GNOME Desktop Environment.
 ![Gnome Desktop on Debian](https://news-cdn.softpedia.com/images/news2/Debian-8-quot-Jessie-quot-to-Get-GNOME-3-14-459470-2.jpg)
