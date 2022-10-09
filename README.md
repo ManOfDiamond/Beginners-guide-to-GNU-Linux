@@ -63,3 +63,5 @@ the most popular Distros.
 • Gentoo (Another distro for experienced users, you build your own system bit-by-bit and more control over system including linux kernel, openrc, less bootup time)
 
 ### A quick fun fact: You're already using gnu/linux on your phone! Android and iOS both are based on gnu/linux.
+### Note
+This repository contains personal post-install setup scripts as well
